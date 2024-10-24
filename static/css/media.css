@@ -1,0 +1,113 @@
+@media (min-width:860px) {
+
+    html,
+    body {
+        font-size: 13px;
+    }
+
+}
+
+@media (min-width:960px) {
+
+    html,
+    body {
+        font-size: 15px;
+    }
+    .front {
+        padding: .3rem;
+      }
+      .card-top,.card-bottom,.six, .seven, .eight, .nine, .ten{
+        font-size: .8rem;
+      }
+      .six, .seven, .eight, .nine, .ten{
+        padding: .2rem;
+        
+    }
+    .ace{
+       font-size: 2rem;
+    }
+    
+}
+
+@media (min-width:1060px) {
+
+    html,
+    body {
+        font-size: 16px;
+    }
+
+}
+
+@media (min-width:1360px) {
+
+    html,
+    body {
+        font-size: 17px;
+    }
+
+    .box {
+        width: 5rem;
+        height: 8rem;
+    }
+
+    .card-top, .card-bottom {
+        font-size: .8rem;
+    }
+
+    .six,
+    .seven,
+    .eight,
+    .nine,
+    .ten {
+        font-size: 1.2rem;
+    }
+
+    .ace {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width:1460px) {
+
+    html,
+    body {
+        font-size: 19px;
+    }
+
+}
+
+@media (min-width:1560px) {
+
+    html,
+    body {
+        font-size: 20px;
+    }
+
+}
+
+@media (min-width:1660px) {
+
+    html,
+    body {
+        font-size: 21px;
+    }
+
+}
+
+@media (min-width:1760px) {
+
+    html,
+    body {
+        font-size: 22px;
+    }
+
+}
+
+@media (min-width:1860px) {
+
+    html,
+    body {
+        font-size: 24px;
+    }
+
+}
